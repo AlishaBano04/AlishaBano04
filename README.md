@@ -50,7 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alishabano/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/AlishaBano04)
-📧 Email: alishaalmora04@gmail.com
+📧 Email: alishabano4312@gmail.com
 
 ---
 
