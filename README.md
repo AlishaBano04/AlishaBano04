@@ -42,7 +42,7 @@
 
 🔗 [**Wanderlust**](https://github.com/AlishaBano04/Wanderlust) — Travel stay booking platform (like Airbnb)  
 🔗 [**ChatHub**](https://github.com/AlishaBano04/ChatHub) — Real-time group chat & video meetings  
-🔗 [**Weather App**](https://github.com/AlishaBano04/WeatherApp) — Weather search app using OpenWeather API
+
 
 ---
 
